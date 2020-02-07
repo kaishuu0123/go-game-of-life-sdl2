@@ -14,7 +14,7 @@ Implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's
 
 * See [veandco/go-sdl2#requirements](https://github.com/veandco/go-sdl2#requirements)
 
-### Setup go modules**
+### Setup go modules
 
 ```shell
 go mod download
