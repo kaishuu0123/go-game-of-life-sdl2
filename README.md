@@ -1,24 +1,26 @@
 # Conway's Game of Life in GO & SDL2
 
+<img src="https://user-images.githubusercontent.com/1567423/73994023-6c0e7e80-4997-11ea-94fc-2643cd893f7c.png" width="400">
+
 Implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
-Using Library
+## Dependencies
 
-* [veandco/go-sdl](https://github.com/veandco/go-sdl2)
+* [veandco/go-sdl2](https://github.com/veandco/go-sdl2)
 
 ## Setup & Usage
 
-Install SDL2 Library
+### Install SDL2 Library
 
-* See [veandco/go-sdl#requirements](https://github.com/veandco/go-sdl2#requirements)
+* See [veandco/go-sdl2#requirements](https://github.com/veandco/go-sdl2#requirements)
 
-Setup go modules
+### Setup go modules**
 
 ```shell
 go mod download
 ```
 
-Run
+### Run
 
 ```shell
 go run main.go
